@@ -9,7 +9,7 @@
 
 - **Step 5.** Click Start Button. 
 
-![2](https://github.com/ocsarpo/telegramBot/blob/master/images/2.PNG?raw=true)
+![1](https://github.com/ocsarpo/telegramBot/blob/master/images/2.PNG?raw=true)
 
 - **Step 6.** Type /newbot. 
 
