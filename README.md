@@ -5,7 +5,7 @@
 - **Step 3.** Log on PC Telegram with your Mobile number
 - **Step 4.** Search "BotFather" on SearchBox
 
-![1](.\images\1.PNG)
+![1](https://github.com/ocsarpo/telegramBot/blob/master/images/1.PNG?raw=true)
 
 - **Step 5.** Click Start Button. 
 
