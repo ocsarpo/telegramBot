@@ -9,7 +9,7 @@
 
 - **Step 5.** Click Start Button. 
 
-![2](.\images\2.png)
+![2](https://github.com/ocsarpo/telegramBot/blob/master/images/2.PNG?raw=true)
 
 - **Step 6.** Type /newbot. 
 
@@ -17,7 +17,7 @@
 
 - **Step 8.** Set a username for your bot. It must end in 'bot'. Like this, for example: My_bot or MyBot. If the username you type exist, you have to type another username. (I wrote ocsarpo1stBot)
 
-- **Step 9.** If you pass **Step 8.**, you can see the messageBox. Like this.![3](.\images\3.PNG)
+- **Step 9.** If you pass **Step 8.**, you can see the messageBox. Like this.![3](https://github.com/ocsarpo/telegramBot/blob/master/images/3.PNG?raw=true)
 
   To make Telegram bot, you have to remember your Telegram token.
 
@@ -33,13 +33,13 @@
 
 - **Step 14.** Test at https://api.telegram.org/botYourToken/getMe
   You can get a json-type result. Like this.
-  ![4](.\images\4.png)
+  ![4](https://github.com/ocsarpo/telegramBot/blob/master/images/4.PNG?raw=true)
 
 - **Step 14.** Find getUpdates section. It receive incoming updates.
   Usage : https://api.telegram.org/botYourToken/getUpdates
   **(It is better to send any MSG to your bot, before the test.)**
 
-  ![5](.\images\5.PNG)
+  ![5](https://github.com/ocsarpo/telegramBot/blob/master/images/5.PNG?raw=true)
 
   To make your bot can talk to you, Remember id (Blue boxes on top photo)
 
@@ -50,16 +50,16 @@
   TOKEN : your bot's Token, ID:your bot's ID 
   Result on browser : a series of json code
   Result on Telegram : photo on below
-  ![5](.\images\6.PNG)
+  ![5](https://github.com/ocsarpo/telegramBot/blob/master/images/6.PNG?raw=true)
 
 - **Step 15.** Let's do this on Program. I'll use Ruby.
 
-  ![5](.\images\7.PNG)
+  ![5](https://github.com/ocsarpo/telegramBot/blob/master/images/7.PNG?raw=true)
 
   If you want to use a language other than English, You must Encode msg.
 
 - **Step 16.** Your Telegram
-  ![5](.\images\8.PNG)
+  ![5](https://github.com/ocsarpo/telegramBot/blob/master/images/8.PNG?raw=true)
 
 # END!
 
