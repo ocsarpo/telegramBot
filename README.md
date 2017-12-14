@@ -9,7 +9,7 @@
 
 - **Step 5.** Click Start Button. 
 
-![1](https://github.com/ocsarpo/telegramBot/blob/master/images/2.PNG?raw=true)
+![1](https://github.com/ocsarpo/telegramBot/blob/master/images/2.png?raw=true)
 
 - **Step 6.** Type /newbot. 
 
@@ -33,7 +33,7 @@
 
 - **Step 14.** Test at https://api.telegram.org/botYourToken/getMe
   You can get a json-type result. Like this.
-  ![4](https://github.com/ocsarpo/telegramBot/blob/master/images/4.PNG?raw=true)
+  ![4](https://github.com/ocsarpo/telegramBot/blob/master/images/4.png?raw=true)
 
 - **Step 14.** Find getUpdates section. It receive incoming updates.
   Usage : https://api.telegram.org/botYourToken/getUpdates
